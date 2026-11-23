@@ -1,0 +1,3 @@
+# DomainProof: this site proves wallet control for GenLayer
+# https://github.com/yoyoblair333-wq/domainproof
+genlayer-domain-proof v1 domain=yoyoblair333-wq.github.io address=0x9ce25091b75968759a68290b1b4db6d173ac205a nonce=b62f2cf6244ff78e68edc15b
